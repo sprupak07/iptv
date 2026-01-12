@@ -1,0 +1,102 @@
+[
+  {
+    "channel": "yt_movie_khusma",
+    "name": "Khusma - New Nepali Full Movie",
+    "url": "https://youtu.be/8hYJ6NQcM3E",
+    "logo": "https://img.youtube.com/vi/8hYJ6NQcM3E/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "New Release", "Popular"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_resham_filili",
+    "name": "Feri Resham Filili - Full Movie",
+    "url": "https://www.youtube.com/watch?v=2EYfkJpz_XM",
+    "logo": "https://img.youtube.com/vi/2EYfkJpz_XM/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Comedy", "New Release"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_mummy",
+    "name": "MUMMY - New Nepali Full Movie 2025",
+    "url": "https://youtu.be/M-VOcM5ZiQI",
+    "logo": "https://img.youtube.com/vi/M-VOcM5ZiQI/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Drama", "New Release"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_love_you",
+    "name": "Love You - Nepali Full Movie",
+    "url": "https://youtu.be/XxYz123ABC",
+    "logo": "https://img.youtube.com/vi/XxYz123ABC/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Romance", "Popular"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_dor",
+    "name": "Dor - Nepali Full Movie",
+    "url": "https://youtu.be/ABC123XYZ",
+    "logo": "https://img.youtube.com/vi/ABC123XYZ/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Drama", "New Release"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_jatra",
+    "name": "Jatra - Nepali Comedy Full Movie",
+    "url": "https://youtu.be/Jatra123",
+    "logo": "https://img.youtube.com/vi/Jatra123/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Comedy", "Popular"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_lukamari",
+    "name": "Lukamari - Nepali Thriller Full Movie",
+    "url": "https://youtu.be/Lukamari123",
+    "logo": "https://img.youtube.com/vi/Lukamari123/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Thriller", "Popular"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_bhagi_bhagi",
+    "name": "Bhagi Bhagi - Nepali Action Full Movie",
+    "url": "https://youtu.be/Bhagi123",
+    "logo": "https://img.youtube.com/vi/Bhagi123/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Action", "New Release"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_chhakka_panja",
+    "name": "Chhakka Panja - Nepali Comedy Movie",
+    "url": "https://youtu.be/Chhakka123",
+    "logo": "https://img.youtube.com/vi/Chhakka123/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Comedy", "Popular"],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_pashupati_prasad",
+    "name": "Pashupati Prasad - Nepali Drama Movie",
+    "url": "https://youtu.be/Pashupati123",
+    "logo": "https://img.youtube.com/vi/Pashupati123/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": ["Movies", "Youtube", "Drama", "Popular"],
+    "content_type": "youtube"
+  }
+]
