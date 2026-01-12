@@ -1,102 +1,890 @@
 [
   {
-    "channel": "yt_movie_khusma",
-    "name": "Khusma - New Nepali Full Movie",
-    "url": "https://youtu.be/8hYJ6NQcM3E",
-    "logo": "https://img.youtube.com/vi/8hYJ6NQcM3E/maxresdefault.jpg",
+    "channel": "yt_movie_chhakka_panja_3___nepali_full_movie",
+    "name": "Chhakka Panja 3 - Nepali Full Movie",
+    "url": "https://youtu.be/F9fY5tCg2vc",
+    "logo": "https://img.youtube.com/vi/F9fY5tCg2vc/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "New Release", "Popular"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_resham_filili",
-    "name": "Feri Resham Filili - Full Movie",
-    "url": "https://www.youtube.com/watch?v=2EYfkJpz_XM",
-    "logo": "https://img.youtube.com/vi/2EYfkJpz_XM/maxresdefault.jpg",
+    "channel": "yt_movie_new_nepali_movie___prem_geet___nepali_full_movie",
+    "name": "New Nepali Movie - \"PREM GEET\" - Nepali Full Movie",
+    "url": "https://youtu.be/xj1aIDRituo",
+    "logo": "https://img.youtube.com/vi/xj1aIDRituo/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Comedy", "New Release"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_mummy",
-    "name": "MUMMY - New Nepali Full Movie 2025",
-    "url": "https://youtu.be/M-VOcM5ZiQI",
-    "logo": "https://img.youtube.com/vi/M-VOcM5ZiQI/maxresdefault.jpg",
+    "channel": "yt_movie_chhakka_panja_2___nepali_full_movie",
+    "name": "Chhakka Panja 2 - Nepali Full Movie",
+    "url": "https://youtu.be/q1BzJ6na4Nc",
+    "logo": "https://img.youtube.com/vi/q1BzJ6na4Nc/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Drama", "New Release"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_love_you",
-    "name": "Love You - Nepali Full Movie",
-    "url": "https://youtu.be/XxYz123ABC",
-    "logo": "https://img.youtube.com/vi/XxYz123ABC/maxresdefault.jpg",
+    "channel": "yt_movie_chhakka_panja___nepali_full_movie",
+    "name": "CHHAKKA PANJA - Nepali Full Movie",
+    "url": "https://youtu.be/u5NJUF-M6pc",
+    "logo": "https://img.youtube.com/vi/u5NJUF-M6pc/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Romance", "Popular"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_dor",
-    "name": "Dor - Nepali Full Movie",
-    "url": "https://youtu.be/ABC123XYZ",
-    "logo": "https://img.youtube.com/vi/ABC123XYZ/maxresdefault.jpg",
+    "channel": "yt_movie_hostel_nepal_movie_ft_anmol_kc_prakriti_shrestha_gaurav_pahadi_salon_basnet",
+    "name": "Hostel (Nepal Movie) ft. Anmol Kc, Prakriti Shrestha, Gaurav Pahadi, Salon Basnet",
+    "url": "https://youtu.be/QjOviR-dIZk",
+    "logo": "https://img.youtube.com/vi/QjOviR-dIZk/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Drama", "New Release"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_jatra",
-    "name": "Jatra - Nepali Comedy Full Movie",
-    "url": "https://youtu.be/Jatra123",
-    "logo": "https://img.youtube.com/vi/Jatra123/maxresdefault.jpg",
+    "channel": "yt_movie_ghamad_shere___new_nepali___nepali_full_movie",
+    "name": "GHAMAD SHERE - New Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/UG6LksV8P-k",
+    "logo": "https://img.youtube.com/vi/UG6LksV8P-k/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Comedy", "Popular"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_lukamari",
-    "name": "Lukamari - Nepali Thriller Full Movie",
-    "url": "https://youtu.be/Lukamari123",
-    "logo": "https://img.youtube.com/vi/Lukamari123/maxresdefault.jpg",
+    "channel": "yt_movie_kri___nepali_full_movie",
+    "name": "KRI - Nepali Full Movie",
+    "url": "https://youtu.be/q8nNbj5BRss",
+    "logo": "https://img.youtube.com/vi/q8nNbj5BRss/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Thriller", "Popular"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_bhagi_bhagi",
-    "name": "Bhagi Bhagi - Nepali Action Full Movie",
-    "url": "https://youtu.be/Bhagi123",
-    "logo": "https://img.youtube.com/vi/Bhagi123/maxresdefault.jpg",
+    "channel": "yt_movie_kabaddi_kabaddi_kabaddi___new_nepali___nepali_full_movie",
+    "name": "KABADDI KABADDI KABADDI - New Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/JLV26lOElSY",
+    "logo": "https://img.youtube.com/vi/JLV26lOElSY/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Action", "New Release"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_chhakka_panja",
-    "name": "Chhakka Panja - Nepali Comedy Movie",
-    "url": "https://youtu.be/Chhakka123",
-    "logo": "https://img.youtube.com/vi/Chhakka123/maxresdefault.jpg",
+    "channel": "yt_movie_prem_geet_2___nepali_full_movie",
+    "name": "PREM GEET 2 - Nepali Full Movie",
+    "url": "https://youtu.be/SSMUBhsxICo",
+    "logo": "https://img.youtube.com/vi/SSMUBhsxICo/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Comedy", "Popular"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
     "content_type": "youtube"
   },
   {
-    "channel": "yt_movie_pashupati_prasad",
-    "name": "Pashupati Prasad - Nepali Drama Movie",
-    "url": "https://youtu.be/Pashupati123",
-    "logo": "https://img.youtube.com/vi/Pashupati123/maxresdefault.jpg",
+    "channel": "yt_movie_jaari_full_movie___dayahang_rai_miruna_magar_ram_babu_gurung_upendra_subba__nepali_movie",
+    "name": "JAARI (FULL MOVIE) - DAYAHANG RAI, MIRUNA MAGAR, RAM BABU GURUNG, UPENDRA SUBBA | NEPALI MOVIE",
+    "url": "https://youtu.be/kQZq8KrtQJ0",
+    "logo": "https://img.youtube.com/vi/kQZq8KrtQJ0/maxresdefault.jpg",
     "group": "Movies",
     "country": "Nepal",
-    "categories": ["Movies", "Youtube", "Drama", "Popular"],
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_ghampani___nepali_full_movie",
+    "name": "GHAMPANI - Nepali Full Movie",
+    "url": "https://youtu.be/xHbyrAIPn3Y",
+    "logo": "https://img.youtube.com/vi/xHbyrAIPn3Y/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_agni_jwala____nepali_full_movie",
+    "name": "Agni Jwala ( - Nepali Full Movie",
+    "url": "https://youtu.be/6devXHFoO9U",
+    "logo": "https://img.youtube.com/vi/6devXHFoO9U/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new_nepali___nepali_full_movie",
+    "name": "New Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/35OyBHQaS7c",
+    "logo": "https://img.youtube.com/vi/35OyBHQaS7c/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_dreams___nepali_full_movie",
+    "name": "DREAMS - Nepali Full Movie",
+    "url": "https://youtu.be/cWUYY8OrL5I",
+    "logo": "https://img.youtube.com/vi/cWUYY8OrL5I/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_sukha_dukha__shri_krishna_shrestha__mandan_krishna_shrestha__jharana_thapa__keshab_bhattarai",
+    "name": "Sukha Dukha | Shri Krishna Shrestha | Mandan Krishna Shrestha | Jharana Thapa | Keshab Bhattarai",
+    "url": "https://youtu.be/Q-tgAHNPotI",
+    "logo": "https://img.youtube.com/vi/Q-tgAHNPotI/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_timi_sanga___nepali_full_movie",
+    "name": "TIMI SANGA - Nepali Full Movie",
+    "url": "https://youtu.be/Uwl2rYtlUp8",
+    "logo": "https://img.youtube.com/vi/Uwl2rYtlUp8/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_jhyanakuti___nepali_full_movie",
+    "name": "JHYANAKUTI - Nepali Full Movie",
+    "url": "https://youtu.be/rAp3bBDHIjc",
+    "logo": "https://img.youtube.com/vi/rAp3bBDHIjc/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_nepali_movie___meri_aama_nepali_hit_movie__nepali___nepali_full_movie",
+    "name": "Nepali Movie - \"Meri Aama\" Nepali Hit Movie || Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/rZu7BCFhnTI",
+    "logo": "https://img.youtube.com/vi/rZu7BCFhnTI/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_chha_maya_chhapakkai___nepali_full_movie",
+    "name": "Chha Maya Chhapakkai - Nepali Full Movie",
+    "url": "https://youtu.be/JvTaYFnFInY",
+    "logo": "https://img.youtube.com/vi/JvTaYFnFInY/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_kohinoor___blockbuster___nepali_full_movie",
+    "name": "KOHINOOR - Blockbuster - Nepali Full Movie",
+    "url": "https://youtu.be/hxMnwl9SViA",
+    "logo": "https://img.youtube.com/vi/hxMnwl9SViA/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_hostel_returns_होस्टेल_रिटन्स__nepali_hit_movie____nepali_full_movie",
+    "name": "Hostel Returns ||होस्टेल रिटन्स || Nepali Hit Movie || - Nepali Full Movie",
+    "url": "https://youtu.be/HANVpfzOFUE",
+    "logo": "https://img.youtube.com/vi/HANVpfzOFUE/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new___nepali_full_movie",
+    "name": "New - Nepali Full Movie",
+    "url": "https://youtu.be/B9b2rB81big",
+    "logo": "https://img.youtube.com/vi/B9b2rB81big/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_maya_ta_maya_ho___nepali___nepali_full_movie",
+    "name": "MAYA TA MAYA HO - Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/r_Avj362IDU",
+    "logo": "https://img.youtube.com/vi/r_Avj362IDU/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_dal_bhat_tarkari_nepali_new_movie_sudan_kc_madan_krishna_hari_bansha_nirutapushpabarshaaanchal",
+    "name": "DAL BHAT TARKARI Nepali New Movie SUDAN K.C Madan Krishna, Hari Bansha, Niruta,Pushpa,Barsha,Aanchal",
+    "url": "https://youtu.be/Jl9_MgLcVAg",
+    "logo": "https://img.youtube.com/vi/Jl9_MgLcVAg/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_bhairav_भैरब__nepali_action_movie__nikhil_upreti_anu_shah_murali_dharjay_kishan_basnet",
+    "name": "Bhairav || भैरब || Nepali Action Movie || Nikhil Upreti, Anu Shah, Murali Dhar,Jay Kishan Basnet,",
+    "url": "https://youtu.be/lXa1_X9XK4Q",
+    "logo": "https://img.youtube.com/vi/lXa1_X9XK4Q/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "Action"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new___nepali_full_movie",
+    "name": "New - Nepali Full Movie",
+    "url": "https://youtu.be/GCM4rnzaLmY",
+    "logo": "https://img.youtube.com/vi/GCM4rnzaLmY/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_mangalam___nepali_full_movie",
+    "name": "MANGALAM - Nepali Full Movie",
+    "url": "https://youtu.be/jY1147QiwLA",
+    "logo": "https://img.youtube.com/vi/jY1147QiwLA/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new_nepali_movie____nishani___nepali_full_movie",
+    "name": "New Nepali Movie - \" Nishani\" - Nepali Full Movie",
+    "url": "https://youtu.be/EVDcRieZJsw",
+    "logo": "https://img.youtube.com/vi/EVDcRieZJsw/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_fateko_jutta___nepali_full_movie",
+    "name": "FATEKO JUTTA - Nepali Full Movie",
+    "url": "https://youtu.be/WrHHGiPRTu4",
+    "logo": "https://img.youtube.com/vi/WrHHGiPRTu4/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_babari____nepali_full_movie",
+    "name": "BABARI | - Nepali Full Movie",
+    "url": "https://youtu.be/kduKxgi2aYk",
+    "logo": "https://img.youtube.com/vi/kduKxgi2aYk/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_loot_2___nepali_full_movie",
+    "name": "Loot 2 - Nepali Full Movie",
+    "url": "https://youtu.be/7uVU6QAvgG8",
+    "logo": "https://img.youtube.com/vi/7uVU6QAvgG8/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_purano_dunga___nepali_full_movie",
+    "name": "PURANO DUNGA - Nepali Full Movie",
+    "url": "https://youtu.be/8_N1zFPvPkk",
+    "logo": "https://img.youtube.com/vi/8_N1zFPvPkk/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new_superhit_nepali_movie___talakjung_vs_tulke__english_subtitle_latest_nepali___nepali_full_movie",
+    "name": "New Superhit Nepali Movie - \"Talakjung Vs Tulke\" || English Subtitle Latest Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/Zl-JXV0JTzw",
+    "logo": "https://img.youtube.com/vi/Zl-JXV0JTzw/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_mela___nepali_full_movie",
+    "name": "MELA - Nepali Full Movie",
+    "url": "https://youtu.be/2uc4xOsIgtw",
+    "logo": "https://img.youtube.com/vi/2uc4xOsIgtw/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_sali_kasko_bhena_ko_nepali_comedy___nepali_full_movie",
+    "name": "Sali Kasko Bhena Ko |Nepali Comedy - Nepali Full Movie",
+    "url": "https://youtu.be/invFudGIi68",
+    "logo": "https://img.youtube.com/vi/invFudGIi68/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "Comedy"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_johnny_gentleman___nepali_full_movie",
+    "name": "JOHNNY GENTLEMAN - Nepali Full Movie",
+    "url": "https://youtu.be/krqkCdN6Cek",
+    "logo": "https://img.youtube.com/vi/krqkCdN6Cek/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_ma_timi_bina_marihalchu____nepali_full_movie",
+    "name": "Ma Timi Bina Marihalchu ( - Nepali Full Movie",
+    "url": "https://youtu.be/o_bW4D-wGZI",
+    "logo": "https://img.youtube.com/vi/o_bW4D-wGZI/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_superhit_nepali_movie___kabaddi___nepali_full_movie",
+    "name": "Superhit Nepali Movie - \"KABADDI\" - Nepali Full Movie",
+    "url": "https://youtu.be/fCfhY0E4GRo",
+    "logo": "https://img.youtube.com/vi/fCfhY0E4GRo/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new_nepali_movie___prahar__rajesh_hamal_biraj_bhatta__latest_nepali___nepali_full_movie",
+    "name": "New Nepali Movie - \"Prahar\" || Rajesh Hamal, Biraj Bhatta || Latest Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/xXyBBw5IC2M",
+    "logo": "https://img.youtube.com/vi/xXyBBw5IC2M/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_tod_तोड__nepali___nepali_full_movie",
+    "name": "TOD | तोड | Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/n8n4uIWw2lE",
+    "logo": "https://img.youtube.com/vi/n8n4uIWw2lE/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_dui_rupaiyan___nepali_full_movie",
+    "name": "Dui Rupaiyan - Nepali Full Movie",
+    "url": "https://youtu.be/nrA7ygVxGP0",
+    "logo": "https://img.youtube.com/vi/nrA7ygVxGP0/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_dui_rupaiyan___nepali_full_movie",
+    "name": "Dui Rupaiyan - Nepali Full Movie",
+    "url": "https://youtu.be/nrA7ygVxGP0",
+    "logo": "https://img.youtube.com/vi/nrA7ygVxGP0/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_sathi_ma_timro____nepali_full_movie",
+    "name": "Sathi Ma Timro ( - Nepali Full Movie",
+    "url": "https://youtu.be/lemzzboYelk",
+    "logo": "https://img.youtube.com/vi/lemzzboYelk/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_jaljala__new_nepali___nepali_full_movie",
+    "name": "JALJALA | New Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/apxDwqOV6gQ",
+    "logo": "https://img.youtube.com/vi/apxDwqOV6gQ/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_panche_baja___nepali_full_movie",
+    "name": "PANCHE BAJA - Nepali Full Movie",
+    "url": "https://youtu.be/fOKvTf2FyUs",
+    "logo": "https://img.youtube.com/vi/fOKvTf2FyUs/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_pashupati_prasad___nepali_full_movie",
+    "name": "Pashupati Prasad - Nepali Full Movie",
+    "url": "https://youtu.be/Hpgp6I-4WJc",
+    "logo": "https://img.youtube.com/vi/Hpgp6I-4WJc/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_poi_paryo_kale__nepali___nepali_full_movie",
+    "name": "Poi Paryo Kale- Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/38vfV5tyfHc",
+    "logo": "https://img.youtube.com/vi/38vfV5tyfHc/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_new_nepali___nepali_full_movie",
+    "name": "New Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/QqkSdZWSER8",
+    "logo": "https://img.youtube.com/vi/QqkSdZWSER8/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_chhori_ko_karma_छोरीको_कर्म___nepali___nepali_full_movie",
+    "name": "Chhori Ko Karma - छोरीको कर्म - Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/qrurt0Q9gDM",
+    "logo": "https://img.youtube.com/vi/qrurt0Q9gDM/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_pinjada_पिजडा__nepali___nepali_full_movie",
+    "name": "PINJADA | पिजडा | Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/YcfTEE2411U",
+    "logo": "https://img.youtube.com/vi/YcfTEE2411U/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_deuta_देउता__nepali___nepali_full_movie",
+    "name": "DEUTA | देउता | Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/LfyZ9ajZtfA",
+    "logo": "https://img.youtube.com/vi/LfyZ9ajZtfA/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_ghar__full_new_nepali_horror_movie_20192076__arpan_thapa_surakshya_panta_benisha_hamal",
+    "name": "GHAR || Full New Nepali Horror Movie-2019/2076 || Arpan Thapa, Surakshya Panta, Benisha Hamal",
+    "url": "https://youtu.be/DJMCKVDFyG8",
+    "logo": "https://img.youtube.com/vi/DJMCKVDFyG8/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_arjun__nepali___nepali_full_movie",
+    "name": "Arjun | Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/g9fbG5VqavA",
+    "logo": "https://img.youtube.com/vi/g9fbG5VqavA/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_lappan_chhappan___nepali_full_movie",
+    "name": "LAPPAN CHHAPPAN - Nepali Full Movie",
+    "url": "https://youtu.be/eDiEVcJ0lp0",
+    "logo": "https://img.youtube.com/vi/eDiEVcJ0lp0/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_garud_puran___new_nepali___nepali_full_movie",
+    "name": "Garud Puran - New Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/5E-wEcf3t1Y",
+    "logo": "https://img.youtube.com/vi/5E-wEcf3t1Y/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_anuraag___nepali___nepali_full_movie",
+    "name": "Anuraag - Nepali - Nepali Full Movie",
+    "url": "https://youtu.be/4lQ7E8ZiFKw",
+    "logo": "https://img.youtube.com/vi/4lQ7E8ZiFKw/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_nepte___nepali_full_movie",
+    "name": "NEPTE - Nepali Full Movie",
+    "url": "https://youtu.be/eO751Wxh_Tg",
+    "logo": "https://img.youtube.com/vi/eO751Wxh_Tg/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_jetho_kanchho____nepali_full_movie",
+    "name": "Jetho Kanchho | - Nepali Full Movie",
+    "url": "https://youtu.be/xQvbtWWuOEU",
+    "logo": "https://img.youtube.com/vi/xQvbtWWuOEU/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_jhumkee___nepali_full_movie",
+    "name": "JHUMKEE - Nepali Full Movie",
+    "url": "https://youtu.be/-v9XddzDkLc",
+    "logo": "https://img.youtube.com/vi/-v9XddzDkLc/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_purano_bullet___nepali_full_movie",
+    "name": "PURANO BULLET - Nepali Full Movie",
+    "url": "https://youtu.be/kCAs9rUPJD0",
+    "logo": "https://img.youtube.com/vi/kCAs9rUPJD0/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular",
+      "New Release"
+    ],
+    "content_type": "youtube"
+  },
+  {
+    "channel": "yt_movie_aama___nepali_full_movie___mithila_sharma__tulsi_ghimire__shiva_shrestha__saroj_khanal",
+    "name": "AAMA - NEPALI FULL MOVIE - MITHILA SHARMA | TULSI GHIMIRE | SHIVA SHRESTHA | SAROJ KHANAL",
+    "url": "https://youtu.be/9t2J2Q0H9-M",
+    "logo": "https://img.youtube.com/vi/9t2J2Q0H9-M/maxresdefault.jpg",
+    "group": "Movies",
+    "country": "Nepal",
+    "categories": [
+      "Movies",
+      "Youtube",
+      "Popular"
+    ],
     "content_type": "youtube"
   }
 ]
